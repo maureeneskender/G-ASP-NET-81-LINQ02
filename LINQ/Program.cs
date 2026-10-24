@@ -5,6 +5,7 @@ namespace LINQ
 	{
 		static void Main(string[] args)
 		{
+			AssignmentSolution.Run();
 			#region Part 01
 
 			#region var vs dynamic vs object 
